@@ -13,6 +13,9 @@ Chroma integrates directly with the Polkadot ecosystem by supporting popular wal
 **Team Interest:**
 I identified a significant gap in the Polkadot testing ecosystem - there was no comprehensive E2E testing library that could directly connect with real wallet extensions. This makes it difficult for developers to properly test their dApps' wallet integration, leading to potential bugs and poor user experiences in production.
 
+**Status:**
+Terminated
+
 ### Project Details
 
 **Technology Stack:**
